@@ -1,7 +1,7 @@
 import Hero from '../sections/Hero'
-import ToolSection from '@/sections/ToolSection'
-import StatsSection from '@/sections/StatsSection'
-import Footer from '@/sections/Footer'
+import ToolSection from '../sections/ToolSection'
+import StatsSection from '../sections/StatsSection'
+import Footer from '../sections/Footer'
 
 export default function Home() {
   return (
